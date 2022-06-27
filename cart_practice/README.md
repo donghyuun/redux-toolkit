@@ -1,6 +1,6 @@
 # Redux Toolkit
 
-[강의 주소](https://www.youtube.com/watch?v=bbkBuqC1rU4)
+[강의 영상 freeCodeCamp.org](https://www.youtube.com/watch?v=bbkBuqC1rU4)
 
 #### React Course
 
